@@ -1,0 +1,743 @@
+2023-04-21 16:48:08,612 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:49:15,247 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:50:04,466 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:50:35,260 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:51:11,516 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:53:03,417 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:53:11,307 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 16:53:13,551 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 16:57:25,978 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:57:35,409 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 16:57:37,412 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 16:58:46,178 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 16:58:55,473 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 16:58:57,334 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:02:40,191 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:02:49,331 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:02:51,421 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:04:15,534 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:04:24,260 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:04:27,222 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:06:35,536 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:06:44,480 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:06:46,570 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:12:45,779 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:12:55,693 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:12:58,092 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:13:26,059 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:13:36,080 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:13:38,283 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:14:09,282 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:14:16,971 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:14:19,182 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:15:39,108 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:15:47,069 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:15:49,171 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:17:38,411 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:17:47,275 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:19:25,620 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:19:37,676 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:19:46,984 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:20:51,154 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:23:36,792 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:24:52,239 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:33:22,484 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:38:23,375 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:38:32,278 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:40:43,039 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:40:51,358 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:42:14,358 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:42:23,422 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:42:25,649 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:42:27,602 common_fun.py[line:58] INFO ------get startapp screenshot------
+2023-04-21 17:45:43,507 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:45:52,045 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:45:54,022 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:48:37,545 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:48:48,615 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:48:51,443 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:48:53,608 common_fun.py[line:58] INFO ------get startapp screenshot------
+2023-04-21 17:49:31,258 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:49:43,060 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:49:45,024 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:50:19,021 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:50:27,508 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:50:29,373 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:51:41,982 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:51:53,141 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:51:57,588 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:52:01,064 common_fun.py[line:58] INFO ------get startapp screenshot------
+2023-04-21 17:52:48,637 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:53:00,045 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:53:25,940 desried_caps.py[line:35] INFO ----start app----
+2023-04-21 17:53:34,999 common_fun.py[line:13] INFO ------check_cancelBtn------
+2023-04-21 17:53:38,903 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:53:42,387 common_fun.py[line:36] INFO swipeLeft
+2023-04-21 17:53:46,098 common_fun.py[line:58] INFO ------get startapp screenshot------
+2023-04-28 14:27:15,696 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:27:29,243 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:27:31,524 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:27:32,717 loginView.py[line:25] INFO ----login_action----
+2023-04-28 14:27:32,718 loginView.py[line:26] INFO ----username is :自学网2018
+2023-04-28 14:27:34,731 loginView.py[line:28] INFO ----password is:zxw2018
+2023-04-28 14:27:35,257 loginView.py[line:31] INFO ----click loginBtn----
+2023-04-28 14:31:52,749 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:32:04,064 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:32:06,029 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:32:07,133 loginView.py[line:25] INFO ----login_action----
+2023-04-28 14:32:07,133 loginView.py[line:26] INFO ----username is :自学网2018
+2023-04-28 14:32:08,762 loginView.py[line:28] INFO ----password is:zxw2018
+2023-04-28 14:32:09,285 loginView.py[line:31] INFO ----click loginBtn----
+2023-04-28 14:32:09,791 loginView.py[line:34] INFO ----login finished----
+2023-04-28 14:32:09,791 loginView.py[line:48] INFO ----check_login_status----
+2023-04-28 14:32:09,792 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 14:32:16,951 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 14:32:16,951 loginView.py[line:37] INFO ----check_account_alert----
+2023-04-28 14:34:11,417 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:34:23,492 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:34:25,342 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:34:26,515 loginView.py[line:25] INFO ----login_action----
+2023-04-28 14:34:26,515 loginView.py[line:26] INFO ----username is :自学网2018
+2023-04-28 14:34:28,567 loginView.py[line:28] INFO ----password is:zxw2018
+2023-04-28 14:34:29,110 loginView.py[line:31] INFO ----click loginBtn----
+2023-04-28 14:34:29,638 loginView.py[line:34] INFO ----login finished----
+2023-04-28 14:34:29,638 loginView.py[line:48] INFO ----check_login_status----
+2023-04-28 14:34:29,638 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 14:34:35,250 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 14:34:35,250 loginView.py[line:37] INFO ----check_account_alert----
+2023-04-28 14:36:40,522 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:36:51,956 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:36:54,297 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:36:55,439 loginView.py[line:25] INFO ----login_action----
+2023-04-28 14:36:55,439 loginView.py[line:26] INFO ----username is :自学网2018
+2023-04-28 14:36:57,110 loginView.py[line:28] INFO ----password is:zxw2018
+2023-04-28 14:36:57,644 loginView.py[line:31] INFO ----click loginBtn----
+2023-04-28 14:36:58,753 loginView.py[line:34] INFO ----login finished----
+2023-04-28 14:36:58,753 loginView.py[line:37] INFO ----check_account_alert----
+2023-04-28 14:38:26,884 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:38:36,166 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:38:38,375 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:38:39,431 loginView.py[line:25] INFO ----login_action----
+2023-04-28 14:38:39,431 loginView.py[line:26] INFO ----username is :自学网2018
+2023-04-28 14:38:41,035 loginView.py[line:28] INFO ----password is:zxw2018
+2023-04-28 14:38:41,563 loginView.py[line:31] INFO ----click loginBtn----
+2023-04-28 14:38:42,068 loginView.py[line:34] INFO ----login finished----
+2023-04-28 14:38:42,068 loginView.py[line:37] INFO ----check_account_alert----
+2023-04-28 14:38:47,568 loginView.py[line:44] INFO ----close tip_commint----
+2023-04-28 14:38:47,615 loginView.py[line:48] INFO ----check_login_status----
+2023-04-28 14:38:47,615 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 14:38:52,886 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 14:38:52,886 loginView.py[line:37] INFO ----check_account_alert----
+2023-04-28 14:38:58,238 loginView.py[line:42] INFO ----no tip_commit----
+2023-04-28 14:39:03,422 loginView.py[line:56] ERROR ----login Fail----
+2023-04-28 14:39:03,422 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 14:52:48,721 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:53:00,458 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:53:02,677 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:53:03,817 loginView.py[line:27] INFO ----login_action----
+2023-04-28 14:53:03,817 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 14:53:05,274 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 14:53:05,788 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 14:53:06,295 loginView.py[line:36] INFO ----login finished----
+2023-04-28 14:53:06,296 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 14:53:11,566 loginView.py[line:43] INFO ----no tip_commit----
+2023-04-28 14:53:11,566 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 14:53:11,566 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 14:53:16,577 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 14:53:16,577 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 14:53:16,587 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 14:53:21,622 loginView.py[line:58] ERROR ----login Fail----
+2023-04-28 14:53:21,622 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 14:54:13,036 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:54:52,256 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 14:55:00,214 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 14:55:02,260 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 14:55:03,409 loginView.py[line:27] INFO ----login_action----
+2023-04-28 14:55:03,409 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 14:55:05,010 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 14:55:05,585 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 14:55:06,105 loginView.py[line:36] INFO ----login finished----
+2023-04-28 14:55:06,105 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 14:55:06,105 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 14:55:11,569 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 14:55:11,569 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 14:55:14,480 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 14:55:19,634 loginView.py[line:58] ERROR ----login Fail----
+2023-04-28 14:55:19,635 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 15:15:53,856 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:16:02,988 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:16:06,357 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:16:07,607 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:16:07,607 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 15:16:09,460 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 15:16:09,974 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 15:16:10,478 loginView.py[line:36] INFO ----login finished----
+2023-04-28 15:16:10,479 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 15:16:10,479 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 15:16:15,494 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 15:16:15,494 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 15:16:15,521 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 15:23:35,969 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:23:47,900 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:23:49,875 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:23:51,022 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:23:51,022 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 15:23:53,421 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 15:23:53,934 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 15:23:54,438 loginView.py[line:36] INFO ----login finished----
+2023-04-28 15:23:54,438 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 15:23:54,438 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 15:24:00,074 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 15:24:00,074 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 15:24:04,739 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 15:39:51,968 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:40:04,763 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:40:06,949 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:40:08,197 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:40:08,197 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 15:40:09,806 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 15:40:10,323 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 15:40:10,835 loginView.py[line:36] INFO ----login finished----
+2023-04-28 15:40:10,835 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 15:40:10,835 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 15:40:16,384 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 15:40:16,385 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 15:40:19,579 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 15:43:21,058 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:43:33,850 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:43:35,967 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:43:37,224 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:43:37,224 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 15:43:39,162 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 15:43:39,681 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 15:43:40,187 loginView.py[line:36] INFO ----login finished----
+2023-04-28 15:43:40,187 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 15:43:40,187 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 15:43:45,627 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 15:43:45,627 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 15:43:45,643 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 15:54:11,112 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:54:27,086 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:54:30,162 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:54:31,296 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:54:31,296 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 15:54:32,918 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 15:54:33,444 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 15:54:33,953 loginView.py[line:36] INFO ----login finished----
+2023-04-28 15:54:33,953 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 15:54:33,953 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 15:54:39,373 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 15:54:39,374 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 15:54:44,547 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 15:54:57,966 loginView.py[line:59] ERROR ----login Fail----
+2023-04-28 15:54:57,967 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 15:59:46,764 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 15:59:56,117 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 15:59:58,265 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 15:59:59,214 loginView.py[line:27] INFO ----login_action----
+2023-04-28 15:59:59,214 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:00:01,253 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:00:01,780 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:00:02,326 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:00:02,326 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:00:02,326 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:00:07,918 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:00:07,918 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:00:13,098 loginView.py[line:43] INFO ----no tip_commit----
+2023-04-28 16:00:26,247 loginView.py[line:60] ERROR ----login Fail----
+2023-04-28 16:00:26,248 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:03:35,697 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:03:44,560 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:03:46,520 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:03:47,738 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:03:47,738 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:03:49,368 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:03:49,892 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:03:50,400 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:03:50,400 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:03:50,400 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:03:55,488 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:03:55,489 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:03:56,397 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:04:09,671 loginView.py[line:62] ERROR ----login Fail----
+2023-04-28 16:04:09,671 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:07:55,750 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:08:04,748 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:08:07,176 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:08:08,254 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:08:08,254 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:08:09,981 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:08:10,522 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:08:11,088 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:08:11,088 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:08:11,089 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:08:16,818 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:08:16,819 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:08:16,831 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:08:24,876 loginView.py[line:57] ERROR ----login Fail----
+2023-04-28 16:08:24,876 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:10:18,010 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:10:27,986 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:10:30,072 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:10:31,099 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:10:31,099 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:10:32,702 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:10:33,227 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:10:33,732 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:10:33,736 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:10:33,736 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:10:39,289 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:10:39,290 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:10:44,451 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:12:30,397 loginView.py[line:57] ERROR ----login Fail----
+2023-04-28 16:12:30,398 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:12:53,333 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:13:06,221 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:13:08,336 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:13:09,554 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:13:09,554 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:13:11,513 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:13:12,061 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:13:12,622 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:13:12,624 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:13:12,624 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:13:20,212 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:13:20,212 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:13:24,654 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:19:14,380 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:19:23,670 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:19:25,889 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:19:26,856 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:19:26,856 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:19:28,527 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:19:29,045 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:19:29,567 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:19:29,567 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:19:29,567 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:19:35,168 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:19:35,168 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:19:35,190 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:19:37,218 loginView.py[line:57] ERROR ----login Fail----
+2023-04-28 16:19:37,218 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:33:02,622 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:33:17,294 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:33:19,180 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:33:20,475 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:33:20,475 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:33:22,392 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:33:22,913 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:33:23,426 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:33:23,426 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:33:23,426 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:33:28,554 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:33:28,554 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:33:33,994 loginView.py[line:43] INFO ----no tip_commit----
+2023-04-28 16:33:39,006 loginView.py[line:57] ERROR ----login Fail----
+2023-04-28 16:33:39,006 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:35:32,268 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:35:41,169 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:35:43,543 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:35:44,725 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:35:44,725 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:35:46,343 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:35:46,865 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:35:47,375 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:35:47,375 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:35:47,375 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:35:52,818 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:35:52,819 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:35:54,433 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:36:01,482 loginView.py[line:58] ERROR ----login Fail----
+2023-04-28 16:36:01,482 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:36:50,803 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:37:01,455 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:37:39,988 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:37:48,645 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:37:50,711 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:37:51,966 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:37:51,966 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:37:53,841 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:37:54,365 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:37:54,868 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:37:54,868 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:37:54,868 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:38:01,339 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:38:01,340 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:38:06,483 loginView.py[line:43] INFO ----no tip_commit----
+2023-04-28 16:38:13,496 loginView.py[line:58] ERROR ----login Fail----
+2023-04-28 16:38:13,496 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 16:40:07,218 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 16:40:19,357 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 16:40:21,423 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 16:40:22,541 loginView.py[line:27] INFO ----login_action----
+2023-04-28 16:40:22,542 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 16:40:24,027 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 16:40:24,542 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 16:40:25,047 loginView.py[line:36] INFO ----login finished----
+2023-04-28 16:40:25,048 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 16:40:25,048 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 16:40:30,103 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 16:40:30,104 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 16:40:34,550 loginView.py[line:45] INFO ----close tip_commint----
+2023-04-28 16:40:41,599 loginView.py[line:58] ERROR ----login Fail----
+2023-04-28 16:40:41,600 common_fun.py[line:59] INFO ------get loginFail screenshot------
+2023-04-28 18:07:27,500 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 18:07:36,997 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 18:07:39,029 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 18:07:40,317 loginView.py[line:27] INFO ----login_action----
+2023-04-28 18:07:40,317 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 18:07:41,909 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 18:07:42,434 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 18:07:42,940 loginView.py[line:36] INFO ----login finished----
+2023-04-28 18:07:42,940 loginView.py[line:49] INFO ----check_login_status----
+2023-04-28 18:07:42,940 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 18:07:48,182 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 18:07:48,182 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 18:07:53,783 loginView.py[line:43] INFO ----no tip_commit----
+2023-04-28 18:08:01,270 loginView.py[line:60] INFO ----login sussess----
+2023-04-28 18:08:01,271 loginView.py[line:65] INFO ----check_logout_action----
+2023-04-28 18:08:07,738 loginView.py[line:72] ERROR ----logout Fail----
+2023-04-28 18:08:07,739 common_fun.py[line:59] INFO ------get logoutFail screenshot------
+2023-04-28 18:08:56,173 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 18:09:22,284 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 18:09:56,438 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 18:10:08,127 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 18:10:09,913 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 18:10:11,114 loginView.py[line:27] INFO ----login_action----
+2023-04-28 18:10:11,114 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 18:10:12,719 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 18:10:13,256 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 18:10:13,783 loginView.py[line:36] INFO ----login finished----
+2023-04-28 18:10:13,783 loginView.py[line:50] INFO ----check_login_status----
+2023-04-28 18:10:13,783 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 18:10:20,125 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 18:10:20,125 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 18:10:25,138 loginView.py[line:46] INFO ----close tip_commint----
+2023-04-28 18:10:27,918 loginView.py[line:61] INFO ----login sussess----
+2023-04-28 18:10:27,918 loginView.py[line:66] INFO ----check_logout_action----
+2023-04-28 18:10:34,372 loginView.py[line:73] ERROR ----logout Fail----
+2023-04-28 18:10:34,372 common_fun.py[line:59] INFO ------get logoutFail screenshot------
+2023-04-28 18:11:26,962 desried_caps.py[line:35] INFO ----start app----
+2023-04-28 18:11:38,601 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-04-28 18:11:40,341 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-04-28 18:11:41,456 loginView.py[line:27] INFO ----login_action----
+2023-04-28 18:11:41,456 loginView.py[line:28] INFO ----username is :自学网2018
+2023-04-28 18:11:42,940 loginView.py[line:30] INFO ----password is:zxw2018
+2023-04-28 18:11:43,466 loginView.py[line:33] INFO ----click loginBtn----
+2023-04-28 18:11:43,971 loginView.py[line:36] INFO ----login finished----
+2023-04-28 18:11:43,971 loginView.py[line:50] INFO ----check_login_status----
+2023-04-28 18:11:43,971 common_fun.py[line:63] INFO ------check_market_ad------
+2023-04-28 18:11:49,476 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-04-28 18:11:49,476 loginView.py[line:39] INFO ----check_account_alert----
+2023-04-28 18:11:54,561 loginView.py[line:46] INFO ----close tip_commint----
+2023-04-28 18:11:57,021 loginView.py[line:61] INFO ----login sussess----
+2023-04-28 18:11:57,021 loginView.py[line:66] INFO ----check_logout_action----
+2023-04-28 18:11:59,621 loginView.py[line:76] INFO ----logout success----
+2023-05-04 11:42:49,546 desried_caps.py[line:35] INFO ----start app----
+2023-05-04 11:43:00,229 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-04 11:43:02,460 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-04 11:43:03,724 loginView.py[line:27] INFO ----login_action----
+2023-05-04 11:43:03,724 loginView.py[line:28] INFO ----username is :自学网2018
+2023-05-04 11:43:05,554 loginView.py[line:30] INFO ----password is:zxw2018
+2023-05-04 11:43:06,079 loginView.py[line:33] INFO ----click loginBtn----
+2023-05-04 11:43:06,582 loginView.py[line:36] INFO ----login finished----
+2023-05-04 11:43:06,582 loginView.py[line:50] INFO ----check_login_status----
+2023-05-04 11:43:06,582 common_fun.py[line:63] INFO ------check_market_ad------
+2023-05-04 11:43:13,660 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-05-04 11:43:13,660 loginView.py[line:39] INFO ----check_account_alert----
+2023-05-04 11:43:23,971 loginView.py[line:44] INFO ----no tip_commit----
+2023-05-04 11:43:26,132 loginView.py[line:61] INFO ----login sussess----
+2023-05-04 11:43:26,132 loginView.py[line:66] INFO ----check_logout_action----
+2023-05-04 11:43:28,919 loginView.py[line:76] INFO ----logout success----
+2023-05-09 11:53:48,585 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 11:53:58,825 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 11:54:00,786 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 11:54:01,890 registerView.py[line:41] INFO ----register_action----
+2023-05-09 11:54:02,865 registerView.py[line:44] INFO ----set userimage----
+2023-05-09 11:55:55,195 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 11:56:05,520 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 11:56:07,304 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 11:56:08,450 registerView.py[line:41] INFO ----register_action----
+2023-05-09 11:56:09,495 registerView.py[line:44] INFO ----set userimage----
+2023-05-09 11:56:12,745 registerView.py[line:49] INFO ----username is zxw2018flyy1957----
+2023-05-09 11:58:20,192 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 11:58:30,273 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 11:58:32,521 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 11:58:33,621 registerView.py[line:41] INFO ----register_action----
+2023-05-09 11:58:34,744 registerView.py[line:44] INFO ----set userimage----
+2023-05-09 11:58:37,944 registerView.py[line:49] INFO ----username is bx20241926----
+2023-05-09 12:00:52,597 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:01:03,239 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:01:07,145 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:01:08,314 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:01:09,415 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:01:16,870 registerView.py[line:52] INFO ----username is bx20243939----
+2023-05-09 12:07:12,415 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:07:23,295 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:07:25,620 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:07:26,779 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:07:27,840 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:07:35,074 registerView.py[line:52] INFO ----username is bx20242490----
+2023-05-09 12:14:00,681 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:14:09,746 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:14:12,060 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:14:13,235 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:14:14,275 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:14:21,482 registerView.py[line:52] INFO ----username is bx20242311----
+2023-05-09 12:14:26,037 registerView.py[line:55] INFO ----password is bx20244038----
+2023-05-09 12:14:30,082 registerView.py[line:58] INFO ----email is zxw8038@163.com----
+2023-05-09 12:14:58,689 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:15:09,414 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:15:11,490 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:15:12,592 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:15:13,649 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:15:20,801 registerView.py[line:52] INFO ----username is bx20245576----
+2023-05-09 12:15:25,363 registerView.py[line:55] INFO ----password is bx20243060----
+2023-05-09 12:15:29,406 registerView.py[line:58] INFO ----email is zxw5213@163.com----
+2023-05-09 12:16:14,465 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:16:24,647 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:16:26,917 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:16:28,101 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:16:29,144 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:16:36,305 registerView.py[line:52] INFO ----username is bx20248101----
+2023-05-09 12:16:36,858 registerView.py[line:54] INFO ----password is bx20247844----
+2023-05-09 12:16:37,379 registerView.py[line:56] INFO ----email is zxw3000@163.com----
+2023-05-09 12:16:44,098 registerView.py[line:63] ERROR ----register fail !----
+2023-05-09 12:16:44,099 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 12:17:16,969 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:17:27,777 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:17:30,039 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:17:31,205 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:17:32,245 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:17:39,365 registerView.py[line:52] INFO ----username is bx20241534----
+2023-05-09 12:17:39,906 registerView.py[line:54] INFO ----password is bx20244570----
+2023-05-09 12:17:40,437 registerView.py[line:56] INFO ----email is zxw5921@163.com----
+2023-05-09 12:19:20,469 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:19:30,894 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:19:33,872 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:19:34,889 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:19:35,976 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:19:43,282 registerView.py[line:52] INFO ----username is b7x2024333----
+2023-05-09 12:19:43,860 registerView.py[line:54] INFO ----password is b7X2024563----
+2023-05-09 12:19:44,388 registerView.py[line:56] INFO ----email is B6X923@qq.com----
+2023-05-09 12:19:51,109 registerView.py[line:64] ERROR ----register fail !----
+2023-05-09 12:19:51,109 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 12:22:41,577 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:22:52,185 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:22:56,661 common_fun.py[line:37] INFO swipeLeft
+2023-05-09 12:23:00,140 common_fun.py[line:37] INFO swipeLeft
+2023-05-09 12:23:03,589 common_fun.py[line:59] INFO ------get startapp screenshot------
+2023-05-09 12:23:34,234 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 12:23:45,200 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 12:23:47,085 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 12:23:48,248 registerView.py[line:43] INFO ----register_action----
+2023-05-09 12:23:49,296 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 12:23:57,064 registerView.py[line:52] INFO ----username is b7x2024953----
+2023-05-09 12:23:57,647 registerView.py[line:54] INFO ----password is b7X2024563----
+2023-05-09 12:23:58,187 registerView.py[line:56] INFO ----email is B6X714@qq.com----
+2023-05-09 14:38:24,919 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:38:35,079 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:38:37,242 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:38:38,347 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:38:39,440 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:38:46,610 registerView.py[line:52] INFO ----username is b7x2024250----
+2023-05-09 14:38:47,175 registerView.py[line:54] INFO ----password is b7X2024962----
+2023-05-09 14:38:47,721 registerView.py[line:56] INFO ----email is B6X450@qq.com----
+2023-05-09 14:38:51,359 registerView.py[line:64] ERROR ----register fail !----
+2023-05-09 14:38:51,360 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 14:40:36,237 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:40:45,729 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:40:47,859 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:40:48,890 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:40:49,994 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:40:57,217 registerView.py[line:52] INFO ----username is b7x2024158----
+2023-05-09 14:40:57,983 registerView.py[line:54] INFO ----password is 20262024956----
+2023-05-09 14:40:58,506 registerView.py[line:56] INFO ----email is 20243486772@qq.com----
+2023-05-09 14:41:02,240 registerView.py[line:64] ERROR ----register fail !----
+2023-05-09 14:41:02,240 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 14:42:09,551 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:42:18,642 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:42:20,622 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:42:21,614 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:42:22,674 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:42:29,908 registerView.py[line:52] INFO ----username is b7x2024190----
+2023-05-09 14:42:30,474 registerView.py[line:54] INFO ----password is 20262024332----
+2023-05-09 14:42:31,003 registerView.py[line:56] INFO ----email is 20243486274@qq.com----
+2023-05-09 14:42:32,034 registerView.py[line:59] INFO ----register_btn----
+2023-05-09 14:42:34,643 registerView.py[line:65] ERROR ----register fail !----
+2023-05-09 14:42:34,644 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 14:46:12,443 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:46:21,096 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:46:23,427 common_fun.py[line:18] INFO no cancelBtn
+2023-05-09 14:46:23,427 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:46:25,482 common_fun.py[line:27] INFO ------no skipBtn------
+2023-05-09 14:46:25,482 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:48:01,134 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:48:11,436 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:48:13,235 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:48:14,313 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:48:15,351 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:48:28,926 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:48:41,333 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:48:44,447 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:48:45,559 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:48:46,603 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:48:53,718 registerView.py[line:52] INFO ----username is b7x2024787----
+2023-05-09 14:48:54,270 registerView.py[line:54] INFO ----password is bb20024868----
+2023-05-09 14:48:54,790 registerView.py[line:56] INFO ----email is 20ww86389@qq.com----
+2023-05-09 14:48:55,805 registerView.py[line:59] INFO ----register_btn----
+2023-05-09 14:49:03,430 registerView.py[line:66] ERROR ----register fail !----
+2023-05-09 14:49:03,431 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 14:55:01,592 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 14:55:09,797 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 14:55:11,710 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 14:55:12,882 registerView.py[line:43] INFO ----register_action----
+2023-05-09 14:55:13,955 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 14:55:21,132 registerView.py[line:52] INFO ----username is b7x2024176----
+2023-05-09 14:55:21,683 registerView.py[line:54] INFO ----password is bb20024106----
+2023-05-09 14:55:22,234 registerView.py[line:56] INFO ----email is 20ww86647@qq.com----
+2023-05-09 14:55:23,241 registerView.py[line:59] INFO ----register_btn----
+2023-05-09 14:55:30,845 registerView.py[line:66] ERROR ----register fail !----
+2023-05-09 14:55:30,845 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 15:03:13,257 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:03:24,181 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:03:26,220 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:03:27,301 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:03:28,355 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:03:35,641 registerView.py[line:52] INFO ----username is bb2024601----
+2023-05-09 15:03:36,202 registerView.py[line:54] INFO ----password is bb200bb149----
+2023-05-09 15:03:36,753 registerView.py[line:57] INFO ----email is 2b2198@qq.com----
+2023-05-09 15:03:37,762 registerView.py[line:61] INFO ----register_btn----
+2023-05-09 15:03:40,409 registerView.py[line:67] ERROR ----register fail !----
+2023-05-09 15:03:40,409 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 15:04:26,747 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:04:38,087 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:04:39,953 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:04:50,848 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:04:59,975 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:05:01,998 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:05:03,100 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:05:04,170 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:05:11,746 registerView.py[line:52] INFO ----username is bb2024544----
+2023-05-09 15:05:12,336 registerView.py[line:54] INFO ----password is bb200bb963----
+2023-05-09 15:05:12,869 registerView.py[line:57] INFO ----email is 2b2612@qq.com----
+2023-05-09 15:05:13,907 registerView.py[line:61] INFO ----register_btn----
+2023-05-09 15:05:16,550 registerView.py[line:67] ERROR ----register fail !----
+2023-05-09 15:05:16,550 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 15:10:01,112 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:10:13,082 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:10:15,153 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:10:16,342 sss.py[line:46] INFO ======register_action======
+2023-05-09 15:10:17,274 sss.py[line:49] INFO set userhead
+2023-05-09 15:10:31,779 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:10:44,989 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:10:46,838 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:10:48,049 sss.py[line:46] INFO ======register_action======
+2023-05-09 15:10:49,209 sss.py[line:49] INFO set userhead
+2023-05-09 15:10:53,036 sss.py[line:54] INFO username is zxw2018fly8272
+2023-05-09 15:10:54,548 sss.py[line:57] INFO password is zxw20185052
+2023-05-09 15:10:55,087 sss.py[line:60] INFO email is 51zxw5281@163.com
+2023-05-09 15:11:01,620 sss.py[line:68] ERROR register fail !
+2023-05-09 15:13:31,332 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:13:42,664 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:13:45,065 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:13:46,218 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:13:47,281 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:13:54,723 registerView.py[line:52] INFO ----username is bb2024543----
+2023-05-09 15:13:55,350 registerView.py[line:54] INFO ----password is bb200bb792----
+2023-05-09 15:15:12,463 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:15:22,598 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:15:24,712 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:15:25,872 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:15:26,999 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:15:34,252 registerView.py[line:52] INFO ----username is bb2024467----
+2023-05-09 15:15:34,845 registerView.py[line:54] INFO ----password is bb200bb223----
+2023-05-09 15:17:41,853 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:17:53,461 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:17:55,648 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:17:56,895 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:17:58,013 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:18:05,371 registerView.py[line:52] INFO ----username is bb2024350----
+2023-05-09 15:18:05,954 registerView.py[line:54] INFO ----password is bb200bb897----
+2023-05-09 15:18:08,513 registerView.py[line:59] INFO ----email is 2b2275@qq.com----
+2023-05-09 15:18:11,572 registerView.py[line:65] INFO ----register_btn----
+2023-05-09 15:18:17,567 registerView.py[line:71] ERROR ----register fail !----
+2023-05-09 15:18:17,567 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 15:19:06,787 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:19:17,972 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:19:27,469 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:19:36,609 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:19:38,679 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:19:39,834 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:19:40,917 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:19:48,173 registerView.py[line:52] INFO ----username is bb2024819----
+2023-05-09 15:19:48,832 registerView.py[line:54] INFO ----password is bb200bb525----
+2023-05-09 15:19:49,975 registerView.py[line:58] INFO ----email is 2b2604@qq.com----
+2023-05-09 15:19:56,549 registerView.py[line:65] INFO ----register_btn----
+2023-05-09 15:20:01,682 registerView.py[line:71] ERROR ----register fail !----
+2023-05-09 15:20:01,682 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-09 15:20:37,967 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:20:48,146 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:20:50,984 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:20:52,139 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:20:53,193 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:21:00,448 registerView.py[line:52] INFO ----username is bb2024946----
+2023-05-09 15:21:01,132 registerView.py[line:54] INFO ----password is bb200bb825----
+2023-05-09 15:21:02,180 registerView.py[line:58] INFO ----email is 2b2793@qq.com----
+2023-05-09 15:21:09,235 desried_caps.py[line:35] INFO ----start app----
+2023-05-09 15:21:20,760 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-09 15:21:22,619 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-09 15:21:23,731 registerView.py[line:43] INFO ----register_action----
+2023-05-09 15:21:24,825 registerView.py[line:46] INFO ----set userimage----
+2023-05-09 15:21:32,287 registerView.py[line:52] INFO ----username is bb2024293----
+2023-05-09 15:21:32,903 registerView.py[line:54] INFO ----password is bb200bb992----
+2023-05-09 15:21:33,986 registerView.py[line:58] INFO ----email is 2b2602@qq.com----
+2023-05-09 15:21:35,551 registerView.py[line:63] INFO ----register_btn----
+2023-05-09 15:21:51,558 registerView.py[line:70] ERROR ----register fail !----
+2023-05-09 15:21:51,558 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-10 11:31:03,622 desried_caps.py[line:35] INFO ----start app----
+2023-05-10 11:31:12,902 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-10 11:31:16,793 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-10 11:31:18,037 registerView.py[line:43] INFO ----register_action----
+2023-05-10 11:31:19,173 registerView.py[line:46] INFO ----set userimage----
+2023-05-10 11:31:26,390 registerView.py[line:52] INFO ----username is mm2024528----
+2023-05-10 11:31:26,936 registerView.py[line:54] INFO ----password is m200m957----
+2023-05-10 11:31:27,995 registerView.py[line:58] INFO ----email is 2m2185@qq.com----
+2023-05-10 11:31:29,577 registerView.py[line:63] INFO ----register_btn----
+2023-05-10 11:31:55,349 registerView.py[line:70] ERROR ----register fail !----
+2023-05-10 11:31:55,350 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-10 11:45:47,854 desried_caps.py[line:35] INFO ----start app----
+2023-05-10 11:45:58,792 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-10 11:46:01,826 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-10 11:46:02,717 registerView.py[line:45] INFO ----register_action----
+2023-05-10 11:46:04,283 registerView.py[line:48] INFO ----set userimage----
+2023-05-10 11:46:11,690 registerView.py[line:54] INFO ----username is mm2024527----
+2023-05-10 11:46:12,259 registerView.py[line:56] INFO ----password is m200m445----
+2023-05-10 11:46:13,344 registerView.py[line:60] INFO ----email is 2m2728@qq.com----
+2023-05-10 11:46:14,910 registerView.py[line:65] INFO ----register_btn----
+2023-05-10 11:46:30,438 registerView.py[line:70] INFO ----check_element----
+2023-05-10 11:46:30,461 registerView.py[line:85] INFO ----add_register_info----
+2023-05-10 11:46:30,461 registerView.py[line:87] INFO ----select school----
+2023-05-10 11:46:34,227 registerView.py[line:92] INFO ----select major----
+2023-05-10 11:46:38,924 registerView.py[line:101] INFO ----check_register_station----
+2023-05-10 11:46:38,924 common_fun.py[line:63] INFO ------check_market_ad------
+2023-05-10 11:46:44,732 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-05-10 11:46:49,963 registerView.py[line:107] INFO ----register fail!----
+2023-05-10 11:46:49,963 common_fun.py[line:59] INFO ------get register fail screenshot------
+2023-05-10 11:52:25,884 desried_caps.py[line:35] INFO ----start app----
+2023-05-10 11:52:34,969 common_fun.py[line:14] INFO ------check_cancelBtn------
+2023-05-10 11:52:37,116 common_fun.py[line:23] INFO ------check_skipBtn-------
+2023-05-10 11:52:38,128 registerView.py[line:45] INFO ----register_action----
+2023-05-10 11:52:39,342 registerView.py[line:48] INFO ----set userimage----
+2023-05-10 11:52:46,872 registerView.py[line:54] INFO ----username is mm50243634----
+2023-05-10 11:52:47,440 registerView.py[line:56] INFO ----password is m2y0m5396----
+2023-05-10 11:52:48,487 registerView.py[line:60] INFO ----email is 2mn21237@qq.com----
+2023-05-10 11:52:50,061 registerView.py[line:65] INFO ----register_btn----
+2023-05-10 11:53:05,592 registerView.py[line:70] INFO ----check_element----
+2023-05-10 11:53:05,605 registerView.py[line:85] INFO ----add_register_info----
+2023-05-10 11:53:05,605 registerView.py[line:87] INFO ----select school----
+2023-05-10 11:53:08,458 registerView.py[line:92] INFO ----select major----
+2023-05-10 11:53:14,227 registerView.py[line:101] INFO ----check_register_station----
+2023-05-10 11:53:14,227 common_fun.py[line:63] INFO ------check_market_ad------
+2023-05-10 11:53:19,609 common_fun.py[line:67] INFO ---no wemedia_cacel---
+2023-05-10 11:53:22,871 registerView.py[line:112] INFO ----register success!----

@@ -1,0 +1,8 @@
+{
+"platformName":"Android",
+"platformVersion":"6.0.1",
+"deviceName":"127.0.0.1:5555",
+"appPackage":"com.tal.kaoyan",
+"appActivity":"com.tal.kaoyan.ui.activity.SplashActivity",
+"noReset":true
+}
